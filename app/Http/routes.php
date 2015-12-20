@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/contact', 'MailController@sendMail');
+Route::get('/contact', ['before' => 'force.ssl', 'MailController@sendMail']);
