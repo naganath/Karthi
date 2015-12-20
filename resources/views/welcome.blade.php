@@ -1,45 +1,70 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Laravel</title>
+<head>
+    <title>Contact Us</title>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
 
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+</head>
+<body>
 
-        <style>
-            html, body {
-                height: 100%;
-            }
+<div class="row ">
+<div class="col-md-4 col-md-offset-4">
+<div class="panel panel-default">
+ <div class="panel-heading">
+     
+      <div class="row">
+              <div class="col-md-12" style="padding:10px;">
+                  <input id="name" type="text" class="form-control" placeholder="Name">
+              </div>
+          </div>
+     <div class="row">
+              <div class="col-md-12" style="padding:10px;">
+                  <input id="mobile" type="tel" class="form-control" placeholder="Mobile Number">
+              </div>
+          </div>
+      <div class="row">
+          <div class="col-md-12" style="padding:10px;">
+              <input id="email" type="email" class="form-control" placeholder="Email">
+          </div>
+      </div>
+      <div class="row">
+              <div class="col-md-12" style="padding:10px;">
+                  <input id="city" type="text" class="form-control" placeholder="City">
+              </div>
+          </div>
+     <div class="row">
+              <div class="col-md-12" style="padding:10px;">
+                  <textarea id="message" rows="7" cols="50" class="form-control" placeholder="Message"></textarea>
+              </div>
+          </div>
 
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato';
-            }
-
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
-
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .title {
-                font-size: 96px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
-            </div>
-        </div>
-    </body>
+       <div class="row" style="padding:10px;">
+              <div class=" col-md-offset-6 col-md-6 col-sm-6 col-xs-6">
+                  <input type="submit" onclick="sendMail()" class="btn btn-warning btn-block" value="Send">
+              </div>
+          </div>
+     
+    </div>
+  </div>
+  </div>
+</div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    function sendMail() {
+        //finish loading in 3s
+        $.ajax({
+          type: 'GET',
+          url: "{{ URL::to('/contact') }}",
+          data: {
+            "name": $("#name").val(),
+            "email": $("#email").val(),
+            "mobile": $("#mobile").val(),
+            "city": $("#city").val(),
+            "message": $("#message").val()            
+          }
+         });
+    }
+</script>
+</body>
 </html>
