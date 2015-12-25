@@ -12,7 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 Route::get('/contact', 'MailController@sendMail');
+
+
+Route::get('/aboutus', function () {
+    return view('AboutUs');
+});
+
+
+Route::get('/services', function () {
+    return view('services');
+});

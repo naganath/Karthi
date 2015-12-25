@@ -1,0 +1,36 @@
+#services-body {
+	height: 600px;
+	width : 100%;
+background-image: url("../Images/background.jpg");
+}
+
+
+#TABLE {
+	width : 600px;
+	left : 400px;
+	top: 40px;
+	position: relative;
+ 	border: 3px dashed #90b2ec;
+}
+
+
+#TABLE td  {
+	padding: 20px;
+ 	border: 2px solid #90b2ec;
+ 	text-align: center;
+ 	font-size: 18;
+ 	font-weight: bold;
+}
+
+#service-image {
+	width: 100%;
+	height: 400px;
+	position: relative;
+
+}
+
+#services-body h1 {
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 0px;
+}

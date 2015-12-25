@@ -1,0 +1,59 @@
+
+.page-header1 {
+//    background-color:rgba(237, 225 ,244,0.5);
+    background-color:#9CB1F7;
+    position: center;
+    font-size: 36px;    
+    text-align: Center;
+}
+
+body {
+    //background-image: url(../Images/background.jpg);
+    
+}
+
+.title {
+    color: #444;
+        
+    opacity: 1;
+}
+
+
+.tilted-box {
+    //background-color:rgba(237, 225 ,244,0.5);
+    background-color:#9CB1F7;
+    height: 160px;
+    position: absolute;
+    top: -95px;
+    right: 60px;
+    width: 200px;
+    transform: rotate(45deg);
+    z-index: 1;
+}
+
+#logo {
+    //background-color:rgba(237, 225 ,244,0.5);
+    background-color:#9CB1F7;
+    top:0px;
+    right:0px;
+    width:145.5px;
+    height:114px;   
+    position: absolute;
+    vertical-align: middle;
+    text-align: center;
+    z-index: 2;
+}
+
+#logo img {
+    height :100px;
+    top: 7px;
+    position: relative;
+}
+
+.nav-pills {
+    z-index: 0;
+    height: 60px;
+    display: flex;    
+    align-items: center;
+    max-width: 80%; 
+}

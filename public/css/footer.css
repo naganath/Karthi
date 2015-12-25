@@ -1,0 +1,44 @@
+.footer {
+background-color:#444;
+
+} 
+.heading-para {
+	color:white;
+	font-family: "LDFComicSansBold",cursive;
+	font-size: 20px;	 
+}
+.highlight-text {
+	color:#E16702 ;
+
+}
+li {
+	list-style-type: none;	
+	line-height: 2;
+	font-size: 17px;
+}
+
+ul {
+	padding: 0;
+}
+
+body  {
+	font-size: 15px;	
+}
+.text {
+	color:#999;
+}
+
+.highlight-text-2 {
+	color:#FFD633;
+}
+
+#map  {
+	width: 200px;
+	height: 200px;
+	background-color:RED;
+}
+
+.col-md-3 {
+	padding-left: 	75px;
+	padding-top: 10px;
+}

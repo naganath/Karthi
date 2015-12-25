@@ -1,0 +1,123 @@
+#slideshow {
+    height: 600px;
+    background-color: red;
+    background-size: cover;
+    position: relative;
+    //	top:-20px;
+
+}
+
+body {
+    font-family: "LDFComicSansBold",cursive;
+}
+
+#IMAGE {
+width:100%;
+height: 100%;
+background-size: cover;
+z-index:8;	
+position:absolute;
+top:0;
+left:0;
+}
+
+#header {
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.active{
+        z-index:10;
+}
+
+.last-active {
+	z-index: 9;
+}
+
+
+#footer {
+	position: relative;	
+
+}
+
+#About-Us {
+    width : 100%;
+    height : 350px;
+    background-image: url("../Images/background.jpg");
+    position: relative; 
+    padding-left: 10%;
+    padding-right : 10%; 
+    padding-top: 25px;
+ }
+
+#Owner {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: relative;
+    float : left;
+}
+
+#Intro {
+    position: relative;
+    float : left;
+}
+
+
+#Intro h4 {
+    line-height: 200%;
+    color: #3D238F;
+}
+
+#Intro h1 {
+    color: #E16702;
+}
+#paintImage {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+#paintImage img {
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: absolute;
+}
+
+#paintImage p {
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 36px;    
+    left: 20%;  
+    padding-top: 220px;
+
+}
+
+#paintCata {
+    background-image: url(../Images/background.jpg);
+    width: 100%;
+    height: 600px;  
+    position: relative;
+    padding-top: 20px; 
+    
+}
+
+#paintCata p {
+    font-size: 56px;
+    text-align: center;
+}
+
+
+.paint-Logo {
+    height: 400px;
+    width: 300px;
+    position: relative;
+    top : 30px;
+}
+
+#paintCata .col-md-4{
+    text-align: center;
+    font-size: 20px;
+}
