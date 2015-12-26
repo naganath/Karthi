@@ -13,9 +13,9 @@
 </div>
 <div id="prod-contents">
 	<h1 style="text-align:center">PRODUCTS </h1>
-	<img src="./Images/part-1.png" width=100% height=100%/>
-	<img src="./Images/part-2.png" width=100% height=100%/>
-	<img src="./Images/part-3.png" width=100% height=100%/>
+	<img src="./Images/part-1.jpg" width=100% height=100%/>
+	<img src="./Images/part-2.jpg" width=100% height=100%/>
+	<img src="./Images/part-3.jpg" width=100% height=100%/>
 
 <div id="footer">@include('footer')</div>
 <script src="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') }}"></script>
