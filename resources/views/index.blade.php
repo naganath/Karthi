@@ -11,7 +11,7 @@
 <div id="header">@include('header') </div>
 
 <div id="slideshow"  >
-	<img  id ="IMAGE" src="Images/shop1.jpg" alt=""  class = "active"> 
+	<img  id ="IMAGE" src="./Images/shop1.jpg" alt=""  class = "active"> 
 	<img  id ="IMAGE" src="Images/shop2.jpg" alt=""  > 
 	<img  id ="IMAGE" src="Images/shop3.jpg" alt=""  > 
 </div>

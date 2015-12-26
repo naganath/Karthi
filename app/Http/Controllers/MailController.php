@@ -21,7 +21,7 @@ class MailController extends Controller
         $response = Mail::raw($body, function($message){
             $message->to("rathnastorespaints@gmail.com")->subject("New visitor to Rathna stores!");
         });
-        return view('index');
+        return response()->json($response, 200);
     }
 
 }
