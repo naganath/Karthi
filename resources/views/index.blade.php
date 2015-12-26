@@ -53,7 +53,7 @@ Since the inception of the shop, had a rapid growth in the market and had the po
 
 <div id="footer">@include('footer')</div>
 <script src="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') }}"></script>
-<script src="{{ aset('http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js') }}"></script>
+<script src="{{ asset('http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js') }}"></script>
 <script src="{{ asset('https://maps.googleapis.com/maps/api/js') }}"></script>		
 
 <!-- Include Files -->
