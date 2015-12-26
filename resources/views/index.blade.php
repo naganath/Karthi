@@ -57,8 +57,8 @@ Since the inception of the shop, had a rapid growth in the market and had the po
 <script src="{{ asset('https://maps.googleapis.com/maps/api/js') }}"></script>		
 
 <!-- Include Files -->
-<script type='text/javascript' language='javascript' src="{{ HTML::script('js/map.js') }}"></script> 
-<script type='text/javascript' language='javascript' src="{{ HTML::script('js/imageSliding.js') }}"></script> 
+<script type='text/javascript' language='javascript' src="{{ asset('js/map.js') }}"></script> 
+<script type='text/javascript' language='javascript' src="{{ asset('js/imageSliding.js') }}"></script> 
 
 </body>
 </html>
