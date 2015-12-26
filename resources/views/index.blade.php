@@ -11,9 +11,11 @@
 <div id="header">@include('header') </div>
 
 <div id="slideshow"  >
-	<img  id ="IMAGE" src="./Images/shop1.jpg" alt=""  class = "active"> 
-	<img  id ="IMAGE" src="Images/shop2.jpg" alt=""  > 
-	<img  id ="IMAGE" src="Images/shop3.jpg" alt=""  > 
+	<img  class ="IMAGE" src="./Images/shop1.jpg" alt=""  class = "active"> 
+	<img  class ="IMAGE" src="Images/shop2.jpg" alt=""  > 
+	<img  class ="IMAGE" src="Images/shop3.jpg" alt=""  > 
+	<img  class ="IMAGE" src="Images/shop4.jpg" alt=""  > 
+
 </div>
 
 <div id="About-Us">
@@ -38,14 +40,14 @@ Since the inception of the shop, had a rapid growth in the market and had the po
 <div id="paintCata">
 	<p> PAINTS </p>
 	<div >	
-	<div class = "col-md-4">asian paints<br>
+	<div class = "col-md-4">Asian Paints<br>
 		<img class = "paint-Logo" src ="./Images/asianPaints.jpg"/>
 
 	  </div>
-	<div class = "col-md-4">sheenlac <br>
+	<div class = "col-md-4">Sheenlac <br>
 	<img class = "paint-Logo" src ="./Images/sheenlac.jpg"/>
 </div>
-	<div class = "col-md-4">Mrf <br>
+	<div class = "col-md-4">MRF <br>
 	<img class = "paint-Logo" src ="./Images/MRF.jpg"/>
 </div>
 </div>

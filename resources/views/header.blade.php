@@ -18,12 +18,12 @@
 <nav class="navbar-inverse">
 <div>
   <ul class="nav 	nav-pills nav-justified">
-    <li class="active"><a href="#">Home</a></li>
-    <li><a href="index.html">About</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Product</a></li>
-    <li><a href="#">Gallery</a></li>
-    <li><a href="#">Contact Us</a></li>
+    <li class="active"><a href="/">Home</a></li>
+    <li><a href="aboutUs">About</a></li>
+    <li><a href="services">Services</a></li>
+    <li><a href="products">Product</a></li>
+    <li><a href="gallery">Gallery</a></li>
+    <li><a href="contactUs">Contact Us</a></li>
   </ul>
 </div>
 </nav>

@@ -17,7 +17,7 @@
 	<table id="TABLE" class="table-bordered" >
 		<tr>
 			<td width=70%> Asian paints Colour Consultant Expert advice </td>
-			<td> <img src ="./Images/logo.png" width=100px height=100px></td>
+			<td> <img src ="./Images/asian-paints-500x500.jpg" width=100px height=100px></td>
 		</tr>
 		<tr>
 			<td> Professional Painting Tips </td>

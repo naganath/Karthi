@@ -24,6 +24,10 @@ ul {
 body  {
 	font-size: 15px;	
 }
+.text li a {
+	color:#999;
+}
+
 .text {
 	color:#999;
 }

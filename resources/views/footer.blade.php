@@ -20,12 +20,12 @@
     INFORMATION
     </p>
     <ul class = text>
-    <li>Home</li>
-    <li>About Us</li>
-    <li>Services</li>
-    <li>Product</li>
-    <li>Gallery</li>
-	<li>Enquiry</li>    	
+    <li><a href="/">Home</a></li>
+    <li><a href="aboutUs">About Us</a></li>
+    <li><a href="services">Services</a></li>
+    <li><a href="products">Product</a></li>
+    <li><a href="gallery">Gallery</a></li>
+    <li><a href="contactUs">Enquiry</a></li>   	
     </ul>
   </div>
   <div class="col-md-3">

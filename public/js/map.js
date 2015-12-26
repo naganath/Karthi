@@ -36,5 +36,5 @@ function MapInitialize() {
     
     MapInitialize();
     console.log("after map Initialize")
-    setInterval( "slideSwitch()", 1000 );
+    setInterval( "slideSwitch()", 3000 );
   };

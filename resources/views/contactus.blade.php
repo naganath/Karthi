@@ -2,11 +2,12 @@
 <html>
 <head>
     <title>Contact Us</title>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') }}">
 
 </head>
-<body>
-
+<body background="./Images/background.jpg">
+<div id="header">@include('header')</div>
+<div id = "Heading"><h1 style = "text-align:center"> Contact Us </h1></div>
 <div class="row ">
 <div class="col-md-4 col-md-offset-4">
 <div class="panel panel-default">
@@ -53,8 +54,8 @@
   </div>
   </div>
 </div>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="{{ asset('http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js') }}"></script>
+<script src="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') }}"></script>
 <script type="text/javascript">
     function sendMail() {
         //finish loading in 3s
@@ -83,5 +84,7 @@
         });
     }
 </script>
+
+<div id="footer">@include('footer')</div>
 </body>
 </html>

@@ -18,7 +18,7 @@ Route::get('/', function () {
 Route::get('/contact', 'MailController@sendMail');
 
 
-Route::get('/aboutus', function () {
+Route::get('/aboutUs', function () {
     return view('AboutUs');
 });
 
@@ -29,4 +29,13 @@ Route::get('/services', function () {
 
 Route::get('/products', function () {
     return view('products');
+});
+
+
+Route::get('/contactUs', function () {
+    return view('contactus');
+});
+
+Route::get('/gallery', function () {
+    return view('gallery');
 });

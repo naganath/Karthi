@@ -19,7 +19,7 @@
 		Sri Krishna Hardwares are authorised dealers and retailers of excellent quality of paints in the industry. We in the hardware industry as a retailer with around 20 yrs of experience in the sales of paints and hardware goods in the Thanjavur based. We set business catering the back-up power needs of scores of customers with diverse applications and various levels of service expectations. Prompt and swift customer service is our core strength in this market. Our Specialty We have hired highly skilled and experienced sales boys in the shop to understand and server the needs and requirements of customer. Our company also have well trained sales and services team to keep their eye on market to understand the latest market demand. We offer reliable,durable and customized products to the customers
 	</div>
 	<div class ="col-md-5">
-		<img src ="./Images/shop1.jpg" id ="intro-pic"/>
+		<img src ="./Images/what_we_are.jpg" id ="intro-pic"/>
 	</div>
 </div>
 <br>
