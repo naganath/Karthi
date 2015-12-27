@@ -56,6 +56,7 @@
 </div>
 <script src="{{ asset('http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js') }}"></script>
 <script src="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('https://maps.googleapis.com/maps/api/js') }}"></script>    
 <script type="text/javascript">
     function sendMail() {
         //finish loading in 3s
