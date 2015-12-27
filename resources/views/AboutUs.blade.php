@@ -9,7 +9,7 @@
 </head>
 <body>
 <div id="header">@include('header')</div>
-<div id="us_photo">
+<div id="us_photo" class="container">
 	<img src="./Images/shop1.jpg" id= "Owner">
 </div>
 <div id ="about-us">

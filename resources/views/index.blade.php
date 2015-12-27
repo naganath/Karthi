@@ -10,7 +10,7 @@
 <body>
 <div id="header">@include('header') </div>
 
-<div id="slideshow"  >
+<div id="slideshow" class= "container" >
 	<img  class ="IMAGE" src="./Images/shop1.jpg" alt=""  class = "active"> 
 	<img  class ="IMAGE" src="Images/shop2.jpg" alt=""  > 
 	<img  class ="IMAGE" src="Images/shop3.jpg" alt=""  > 

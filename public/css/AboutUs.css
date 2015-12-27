@@ -1,5 +1,4 @@
 #us_photo {
-	width: 100%;
 	height: 600px;
 	position: relative;
 }
@@ -11,6 +10,8 @@ background-size: cover;
 position:absolute;
 top:0;
 left:0;
+border:3px solid #B1860A;
+z-index: 5;
 }
 
 #header {
@@ -48,7 +49,7 @@ font-size: 20px;
     top:30px;
     position: relative;
     float : left;
-    border:3px solid #0508E8;
+    border:3px solid #B1860A;
 }
 
 #Strength {
@@ -63,4 +64,8 @@ font-size: 20px;
 #content {
 	line-height: 1.5;
 font-size: 20px;
+}
+
+body {
+	background: url(../Images/background.jpg);
 }

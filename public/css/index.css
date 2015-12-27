@@ -2,13 +2,14 @@
     height: 600px;
     background-color: red;
     background-size: cover;
-    position: relative;
+    position: relative; 
     //	top:-20px;
 
 }
 
 body {
     font-family: "LDFComicSansBold",cursive;
+    background: url("../Images/background.jpg");
 }
 
 .IMAGE {
@@ -19,6 +20,7 @@ z-index:8;
 position:absolute;
 top:0;
 left:0;
+border:3px solid #0508E8;
 }
 
 #header {
