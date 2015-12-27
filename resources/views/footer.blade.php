@@ -9,7 +9,7 @@
   <script src="{{ asset('https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js') }}"></script>
   <script src="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') }}"></script>
   <script type='text/javascript' language='javascript' src="{{ asset('js/map.js') }}"></script>
-
+  <link href="{{ asset('https://fonts.googleapis.com/css?family=Jura:600') }}" rel='stylesheet' type='text/css'>
 </head>
 <body>
 

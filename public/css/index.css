@@ -42,7 +42,7 @@ left:0;
 
 #About-Us {
     width : 100%;
-    height : 350px;
+    height : 300px;
     background-image: url("../Images/background.jpg");
     position: relative; 
     padding-left: 10%;
@@ -51,8 +51,8 @@ left:0;
  }
 
 #Owner {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
     position: relative;
     float : left;

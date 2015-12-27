@@ -4,7 +4,6 @@ background-color:#444;
 } 
 .heading-para {
 	color:white;
-	font-family: "LDFComicSansBold",cursive;
 	font-size: 20px;	 
 }
 .highlight-text {
@@ -45,4 +44,8 @@ body  {
 .col-md-3 {
 	padding-left: 	75px;
 	padding-top: 10px;
+}
+
+body {
+	font-family: 'Jura', sans-serif;
 }

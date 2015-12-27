@@ -16,7 +16,8 @@
 	<h1> What We are ... </h1>
 	<div id="cOntent">
 	<div class ="col-md-7">
-		Sri Krishna Hardwares are authorised dealers and retailers of excellent quality of paints in the industry. We in the hardware industry as a retailer with around 20 yrs of experience in the sales of paints and hardware goods in the Thanjavur based. We set business catering the back-up power needs of scores of customers with diverse applications and various levels of service expectations. Prompt and swift customer service is our core strength in this market. Our Specialty We have hired highly skilled and experienced sales boys in the shop to understand and server the needs and requirements of customer. Our company also have well trained sales and services team to keep their eye on market to understand the latest market demand. We offer reliable,durable and customized products to the customers
+		With 47 years of glorious service, Rathna Stores steadily grew to be  one of the premium paint traders in Thanjavur District. It has another reason to be proud of, being one of the few family run organisations, currently being controlled by the third generation, from Sri M.K. Govindan to Sri Vivekanandan Govindan to Sri Swaminathan Vivekanandan.
+<br><p>With nearly 50 years of experience in the sale of paints and hardware goods, we never compromise on the  quality of products and ensure the customer's full satisfaction. With a clear understanding of changing product demands, we carefully analyze the market to understand the latest market demands and trends.</p>
 	</div>
 	<div class ="col-md-5">
 		<img src ="./Images/what_we_are.jpg" id ="intro-pic"/>
@@ -26,7 +27,8 @@
 <div id = "Strength">
 	<h1> Strength</h1>
 	<div id= "content">
-	We at SKH, never compromise with quality of products and customer's satisfaction. Our company has appointed the shop boys to understand the needs of the customer and to serve the right product intime. All our staffs and engineers are well-versed with latest technology and modern machines. Our company has well-trained technical shopboys for mixing of right colors through the Color world machines. Customer centric business process Expertised salesmans in serving of customers for the Hardware goods within the customers budget.
+	Our company is equipped with the latest technologies and modern machines and, along with our well trained sales and services team, we will provide you with latest products of the highest quality that cater to all your building and housing needs.
+We have been a consistent member of the Asian Paints Privilege Club for the past 5 years and have won numerous achievement awards, not only from Asian Paints but also from other reputed brands like JK Cements, Sheenlac, MRF etc. 
 	</div>
 </div>
 </div>

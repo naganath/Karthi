@@ -25,8 +25,7 @@
 
 	<div id = "Intro" class="col-md-8">
 		<h1>Welcome to Rathna Paint Stores </h1>
-		<h4>One of the Premium paint & hardwares shop in Thanjavur District was started by Mr. T. Jayaraman (Prop) in the year of 1996.
-Since the inception of the shop, had a rapid growth in the market and had the potential to increase the customer base in the city for this shop. During this time we had been recognized by the various paint companies and had received many awards from the companies. 
+		<h4>Rathna Stores,founded by M.K.Govindan and his brother M.K.Swaminathan (Malaysia), had its humble beginning in a rented premise at 117, Nageswaren North Street, Kumbakonam in the year 1969. It then steadily grew to be  one of the premium paint traders in Thanjavur District and has now, its own premise at 24, Sarangapani Sannadhi, Kumbakonam. 
 		</h4>
 
  	</div>
