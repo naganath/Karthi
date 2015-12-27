@@ -31,17 +31,24 @@ body {
     z-index: 1;
 }
 
+#logo-container {
+    background-color:#9CB1F7;
+    position: absolute;
+    top:0px;
+    right: 0px;
+    z-index: 2;
+    width: 145px;
+}
+
 #logo {
     //background-color:rgba(237, 225 ,244,0.5);
     background-color:#9CB1F7;
-    top:0px;
-    right:0px;
-    width:145.5px;
+    width:114px;
     height:114px;   
-    position: absolute;
     vertical-align: middle;
     text-align: center;
-    z-index: 2;
+    z-index: 3;
+    border-radius: 100%;
 }
 
 #logo img {

@@ -39,3 +39,8 @@ Route::get('/contactUs', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+
+Route::get('/*', function () {
+    return view('index');
+});
+

@@ -30,7 +30,7 @@ function MapInitialize() {
 	
 
 
-  window.onload=function(){ 
+  document.ready=function(){ 
     console.log("Inside Onload");
     google.maps.event.addDomListener(window, 'load', MapInitialize);
     

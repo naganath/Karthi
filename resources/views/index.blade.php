@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title></title>
+<title>Rathna Stores and Paints</title>
 
 <link rel="stylesheet" href="{{ asset('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') }}">
 <link href="{{ asset('css/index.css') }}" rel="stylesheet">

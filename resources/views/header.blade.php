@@ -14,7 +14,7 @@
 <div  class = "page-header1" ><span class="title"> Rathna Paints and Stores	</span>
 </div>
 <div class = "tilted-box"></div>
-<div id=logo> <img src = "Images/logo.png"    weight= 200/>  </div>
+<div id="logo-container"> <img id=logo src = "Images/logo.jpg"    weight= 200/>  </div>
 <nav class="navbar-inverse">
 <div>
   <ul class="nav 	nav-pills nav-justified">
