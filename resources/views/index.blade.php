@@ -38,7 +38,7 @@ Since the inception of the shop, had a rapid growth in the market and had the po
 </div>
 
 <div id="paintCata">
-	<p> PAINTS </p>
+	<p> Brands </p>
 	<div >	
 	<div class = "col-md-4">Asian Paints<br>
 		<img class = "paint-Logo" src ="./Images/asianPaints.jpg"/>

@@ -32,16 +32,15 @@
     <p class = "heading-para">
     CONTACT US
     </p>
-    <span class = "highlight-text"  style="font-size:17px; font-weight:600">  Rathan Paints and Stores </span><br>
+    <span class = "highlight-text"  style="font-size:17px; font-weight:600">  Rathna Paints and Stores </span><br>
     <span class = text >
-    Address Line 1,<br>
-    Address Line 2 <br>
-    Address Line 3. <br>
-    Phone: <span class="highlight-text-2">04362 - 222222 </span><br>
-    <span class= "highlight-text-2" style = "  margin-left:3.5em"> 04362 -333333 </span><br>
-    Mobile: <span class = "highlight-text">9922992299</span><br>
-    <span class = "highlight-text" style = "margin-left:3.5em">9922992299</span><br>
-    Email: abc.0608@gmail.com <br>
+    Shop No.  24/45, <br>
+    Sarangapani Sannathi Street, <br>
+    Kumbakonam -612001 <br>
+    Phone: <span class="highlight-text-2">0435 - 2431132 </span><br>
+    Mobile: <span class = "highlight-text">9443130371</span><br>
+    <span class = "highlight-text" style = "margin-left:3.5em">9789708394</span><br>
+    Email: rathnastorespaints@gmail.com <br>
     </span>
   </div>
   <div class="col-md-3">
@@ -51,8 +50,9 @@
     <span class = text style="font-size:17px">
     <span class = "highlight-text-2">Monday - Saturday <br></span>
     9.00 AM - 10.00 PM<br>
-    <span class= "highlight-text">Sunday Holiday<br>
+    <span class = "highlight-text">Sunday <br>
     </span>
+    9.00 AM - 2.00 PM<br>
   </div>
   <div class="col-md-3">
     <p class = "heading-para">
