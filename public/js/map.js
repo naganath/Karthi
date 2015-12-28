@@ -26,15 +26,18 @@ function MapInitialize() {
 
 
 
-  
-	
-
-
-  document.ready=function(){ 
+    document.ready=function(){ 
     console.log("Inside Onload");
     google.maps.event.addDomListener(window, 'load', MapInitialize);
-    
-    MapInitialize();
-    console.log("after map Initialize")
-    setInterval( "slideSwitch()", 3000 );
+    LoadFunctions();
+    console.log("after map Initialize");
+
   };
+
+
+
+  function LoadFunctions() {
+    MapInitialize();
+    setInterval( "slideSwitch()", 3000 );
+    ChangeTabName();
+  }
