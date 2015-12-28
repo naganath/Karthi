@@ -1,7 +1,7 @@
 
 .page-header1 {
 //    background-color:rgba(237, 225 ,244,0.5);
-    background-color:#9CB1F7;
+    background-color:#B6BDD2;
     position: center;
     font-size: 36px;    
     text-align: Center;
@@ -14,17 +14,17 @@ body {
 
 .title {
     color: #444;
-        
+    font-size: 56;
     opacity: 1;
 }
 
 
 .tilted-box {
     //background-color:rgba(237, 225 ,244,0.5);
-    background-color:#9CB1F7;
+    background-color:#B6BDD2;
     height: 160px;
     position: absolute;
-    top: -95px;
+    top: -73px;
     right: 60px;
     width: 200px;
     transform: rotate(45deg);
@@ -32,7 +32,7 @@ body {
 }
 
 #logo-container {
-    background-color:#9CB1F7;
+    background-color:#B6BDD2;
     position: absolute;
     top:0px;
     right: 0px;
@@ -42,9 +42,9 @@ body {
 
 #logo {
     //background-color:rgba(237, 225 ,244,0.5);
-    background-color:#9CB1F7;
-    width:114px;
-    height:114px;   
+    background-color:#B6BDD2;
+    width:140px;
+    height:135px;   
     vertical-align: middle;
     text-align: center;
     z-index: 3;
@@ -59,8 +59,7 @@ body {
 
 .nav-pills {
     z-index: 0;
-    height: 60px;
- 
+    height: 60px; 
     align-items: center;
     max-width: 80%; 
 }
