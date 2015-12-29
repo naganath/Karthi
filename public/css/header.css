@@ -7,10 +7,12 @@
     text-align: Center;
 }
 
-body {
-    //background-image: url(../Images/background.jpg);
+    body{
+    width:100%;
+    overflow:hidden;
+    overflow-y: auto
+  }
     
-}
 
 .title {
     color: #444;
@@ -18,26 +20,13 @@ body {
     opacity: 1;
 }
 
-
-.tilted-box {
-    //background-color:rgba(237, 225 ,244,0.5);
-    background-color:#B6BDD2;
-    height: 160px;
-    position: absolute;
-    top: -73px;
-    right: 60px;
-    width: 200px;
-    transform: rotate(45deg);
-    z-index: 1;
-}
-
 #logo-container {
     background-color:#B6BDD2;
     position: absolute;
     top:0px;
-    right: 0px;
     z-index: 2;
     width: 145px;
+    border-radius:  0 0 6em 0 ;
 }
 
 #logo {
@@ -61,5 +50,10 @@ body {
     z-index: 0;
     height: 60px; 
     align-items: center;
-    max-width: 80%; 
+    max-width: 80%;    
+}
+
+#tab-container  {
+    left: 200px;
+    position:relative;
 }
