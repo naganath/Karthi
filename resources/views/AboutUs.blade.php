@@ -20,7 +20,7 @@
 <br><p>With nearly 50 years of experience in the sale of paints and hardware goods, we never compromise on the  quality of products and ensure the customer's full satisfaction. With a clear understanding of changing product demands, we carefully analyze the market to understand the latest market demands and trends.</p>
 	</div>
 	<div class ="col-md-5">
-		<img src ="./Images/what_we_are.jpg" id ="intro-pic"/>
+		<img src ="./Images/aboutPage.jpg" id ="intro-pic"/>
 	</div>
 </div>
 <br>

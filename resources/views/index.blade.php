@@ -15,7 +15,7 @@
 	<img  class ="IMAGE" src="Images/shop2.jpg" alt=""  > 
 	<img  class ="IMAGE" src="Images/shop3.jpg" alt=""  > 
 	<img  class ="IMAGE" src="Images/shop4.jpg" alt=""  > 
-
+	<img  class ="IMAGE" src="Images/shop5.jpg" alt=""  >
 </div>
 
 <div id="About-Us">
